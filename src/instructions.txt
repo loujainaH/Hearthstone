@@ -1,0 +1,96 @@
+Notes : **the screen resoultion that we run at is 1600 x 864.
+				**opponent's info is found next to the first button in the top left corner.
+				**current hero's info is found next to the second button in the bottom left corner.
+				**the info of each card is displayed on the button containing it.
+				
+ 1) Running  the game : 	
+													run it from the controller class.
+ 
+ 2) Selecting the heroes : 
+													a)hero1 :once you run the game a window that is divded into 6 columns  will open up where you select the hero be clicking on the hero's card that you want (or even the whole column containing the card).  
+													 b)hero2:once you've chosen hero1 you'll be redirected to a new windpw with the same layout where you also choose a hero by clicking on the card holding his name or the column containing the card.
+
+3) How to end the turn :  
+													click on  the "end turn " button (third button from the bottom left corner).															 
+4) Screen Orientation : the game window is divided into 2 fixed half .
+													a)The top one is always used for the opponent's hero(it is then divided into 2 rows 1st one containing the hero's info , a button and the back of his hand's card and the second one containing his field ).
+													b)The bottm half is for the current hero (it is then divided into 2 rows : 1st one containing his field while the second one contains its info , hand and other buttons).
+													 
+5) Playing a minion :  
+													you can play a minion by clicking on the button holding its info.(NOTE : if it's in the hand it will be put in the field immediately (if there is enough space)) 
+
+6) How the current hero castes a spell : 
+													a) Hero target spell:
+																1)To cast the spell on the current hero :  
+																			i)click on the button containig the spell's info THEN click on "Spell on ME OR UseHeroPower On ME " (bottom left corner).
+																						----OR----
+																			ii) click on "Spell on ME OR UseHeroPower On ME " (bottom left corner) THEN click on the button containing the spell's info.
+																			
+																2)To cast the spell on the opponent's hero:
+																	    	i)click on the button containing the spell's info THEN click on "Attack Hero OR Spell on Hero " (top left corner).
+																						----OR----
+																		    ii) click on"Attack Hero OR Spell on Hero " (top left corner). THEN click on the button containing the spell's info.
+																
+													b) Minion target spell:
+																	i)Cick on the button containing the spell's info THEN click on the button holding the info of the minion you want to cast the spell on(either in your field or the opponent's field).
+																						----OR----
+																	ii)Click on the button holding the info of the minion you want to cast the spell on(either in your field or the opponent's field) THEN click on the button containing the spell's info.
+																
+													c) Leeching spell:
+																	i)Click on the button containing the spell's info THEN click on the button holding the info of the minion you want to cast the spell on(either in your field or the opponent's field).
+																						----OR----
+																	ii)Click on the button holding the info of the minion you want to cast the spell on(either in your field or the opponent's field) THEN click on the button containing the spell's info.
+																
+													d) AOE : just click on the button containing the spell's info.
+																		
+													e) Fieldspell : just click on the button containing the spell's info.
+														
+7) How the current hero uses his minions to attack the opponent's minions: 														
+																	i)Click on the button holding the info of the minion you want to attack with (in your field) THEN Click on the button holding the info of the minion you want to attack(in the opponent's field).
+																						----OR----
+																	ii)Click on the button holding the info of the minion you want to attack(in the opponent's field) THEN Click on the button holding the info of the minion you want to attack with (in your field).
+													
+8) How the current hero uses his minions to attack the opponent's hero: 														
+																	i)Click on the button holding the info of the minion you want to attack with (in your field) THEN Click on"Attack Hero OR Spell on Hero " (top left corner).
+																						----OR----
+																	ii) Click on "Attack Hero OR Spell on Hero "  (top left corner)  THEN Click on the button holding the info of the minion you want to attack with (in your field).													
+																																																
+9) Using the hero's power :
+													1) Paladin (Uther Lightbringer): 
+																	just click on the "Use Hero Power" button (2nd one from the bottom left corner).
+													2)  Warlock (Gul'dan):
+																	just click on the "Use Hero Power" button (2nd one from the bottom left corner). 
+													3) Hunter (Rexxar):
+																	just click on the "Use Hero Power" button (2nd one from the bottom left corner). 
+													4) Priest (Anduin Wrynn):
+																			To use it on a :
+																				a)hero:
+																						1)current hero:
+																										i)click on the "Use Hero Power"  button (2nd one from the bottom left corner) THEN click on "Spell on ME OR UseHeroPower On ME " (bottom left corner).
+																										----OR----
+																										ii) click on "Spell on ME OR UseHeroPower On ME " (bottom left corner) THENclick on the "Use Hero Power"  button (2nd one from the bottom left corner) . 
+																						2)opponent's hero:
+																										i)click on the "Use Hero Power"  button (2nd one from the bottom left corner) THEN click on "Attack Hero OR Spell on Hero " (top left corner).
+																										----OR----
+																										ii) click on "Attack Hero OR Spell on Hero" (top left corner) THEN click on the "Use Hero Power"  button (2nd one from the bottom left corner) . 
+																				b)minion:
+																										i)Cick on "Use Hero Power"  button (2nd one from the bottom left corner) THEN click on the button holding the info of the minion you want to use your power on.
+																										----OR----
+																										ii)Click on the button holding the info of the minion you want to use your power on THEN click on"Use Hero Power"  button (2nd one from the bottom left corner).
+																
+													5)  Mage (Jaina Proudmoore):
+																				To use it on a :
+																				a)hero:
+																						1)current hero:
+																										i)click on the "Use Hero Power"  button (2nd one from the bottom left corner) THEN click on "Spell on ME OR UseHeroPower On ME " (bottom left corner).
+																										----OR----
+																										ii) click on "Spell on ME OR UseHeroPower On ME " (bottom left corner) THENclick on the "Use Hero Power"  button (2nd one from the bottom left corner) . 
+																						2)opponent's hero:
+																										i)click on the "Use Hero Power"  button (2nd one from the bottom left corner) THEN click on "Attack Hero OR Spell on Hero " (top left corner).
+																										----OR----
+																										ii) click on "Attack Hero OR Spell on Hero" (top left corner) THEN click on the "Use Hero Power"  button (2nd one from the bottom left corner) . 
+																				b)minion:
+																										i)Cick on "Use Hero Power"  button (2nd one from the bottom left corner) THEN click on the button holding the info of the minion you want to use your power on.
+																										----OR----
+																										ii)Click on the button holding the info of the minion you want to use your power on THEN click on"Use Hero Power"  button (2nd one from the bottom left corner).	
+																					
